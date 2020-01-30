@@ -17,7 +17,7 @@
 
 ---
 
-Previous version reading:
+### v0.1
 
 - [Application structure](https://sova.dev/application-structure/)
 - [FeatureSlices slides 🇷🇺](https://tg.guru/feature_slices)

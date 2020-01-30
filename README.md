@@ -9,8 +9,6 @@
 
 [Github](https://github.com/featureslices)
 
----
-
 ### Applications uses
 
 - [Howtocards](https://github.com/howtocards/frontend)

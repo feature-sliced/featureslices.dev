@@ -11,6 +11,12 @@
 
 ---
 
+### Applications uses
+
+- [Howtocards](https://github.com/howtocards/frontend)
+
+---
+
 Previous version reading:
 
 - [Application structure](https://sova.dev/application-structure/)

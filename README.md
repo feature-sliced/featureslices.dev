@@ -9,8 +9,6 @@
 
 [Github](https://github.com/featureslices)
 
----
-
 ## v0.1
 
 ### Reading

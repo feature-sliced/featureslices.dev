@@ -9,13 +9,15 @@
 
 [Github](https://github.com/featureslices)
 
-### Applications uses
-
-- [Howtocards](https://github.com/howtocards/frontend)
-
 ---
 
-### v0.1
+## v0.1
+
+### Reading
 
 - [Application structure](https://sova.dev/application-structure/)
 - [FeatureSlices slides 🇷🇺](https://tg.guru/feature_slices)
+
+### Applications uses
+
+- [Howtocards](https://github.com/howtocards/frontend)

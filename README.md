@@ -2,14 +2,19 @@
 
 [![](https://img.shields.io/badge/feature/slices-1.0-blue)](https://featureslices.dev)
 
+[Github](https://github.com/featureslices)
+
+## V1.0
 
 ```md
 [![](https://img.shields.io/badge/feature/slices-1.0-blue)](https://featureslices.dev)
 ```
 
-[Github](https://github.com/featureslices)
-
 ## v0.1
+
+```md
+[![](https://img.shields.io/badge/feature/slices-0.1-orange)](https://featureslices.dev)
+```
 
 ### Reading
 

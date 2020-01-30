@@ -8,3 +8,10 @@
 ```
 
 [Github](https://github.com/featureslices)
+
+---
+
+Previous version reading:
+
+- [Application structure](https://sova.dev/application-structure/)
+- [FeatureSlices slides 🇷🇺](https://tg.guru/feature_slices)

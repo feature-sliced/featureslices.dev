@@ -1,8 +1,8 @@
 # featureslices.dev
 
-[![](https://img.shields.io/badge/feature/slices-1.0-blue)](https://featureslices.dev)
+[![](https://img.shields.io/badge/feature/slices-1.0-blue)](https://featureslices.dev) [Github](https://github.com/featureslices)
 
-[Github](https://github.com/featureslices)
+FeatureSlices is a structure pattern for JavaScript frontend projects that aims logic separation of components and library code. The main idea is a split code to logical pieces grouped by business entities called features.
 
 ### Versions
 

@@ -7,8 +7,5 @@ FeatureSlices is a structure pattern for JavaScript frontend projects that aims 
 ### Versions
 
 Now feature/slices has **two** versions:
-- [v0.1] — First public version, tested in 20+ applications
-- [v1.0] — Next version. In development now.
-
-[v0.1]: /v0.1.md
-[v1.0]: /v1.0.md
+- [v0.1 — First public version](/v0.1.md), tested in 20+ applications
+- [v1.0 — Next version](/v1.0.md). In development now.

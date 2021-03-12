@@ -2,7 +2,8 @@
 
 [GitHub](https://github.com/feature-sliced)
 
-feature-sliced is a structural pattern and methodology for frontend projects that aims logic separation of components and library code. The main idea is to split code to logical pieces grouped by business entities called features.
+**feature-sliced** is a structural pattern and methodology for frontend projects that aims logic separation for components and library code.
+The main idea is to split a project structure to logical pieces grouped by business entities called features.
 
 ### Versions
 

@@ -1,9 +1,9 @@
 # featureslices.dev [![](https://img.shields.io/badge/feature/slices-1.0-blue)](https://featureslices.dev)
 
-[GitHub](https://github.com/feature-sliced)
-
 **feature-sliced** is a structural pattern and methodology for frontend projects that aims logic separation for components and library code.
 The main idea is to split a project structure to logical pieces grouped by business entities called features.
+
+[GitHub](https://github.com/feature-sliced)
 
 ### Versions
 
